@@ -32,6 +32,16 @@ cd REPOSITORY_NAME
 ```
 
 2. add link in 'src="ex123/solution.js"' from index.html arquive
+
+```html
+<head>
+  <title>Document</title>
+</head>
+<body>
+  <script src="/JavaScript-Exercises/02 - objects/ex106-create-object/solution.js"></script>
+</body>
+```
+
 3. run index.html in your browser.
 
 ## ⚙️ Project Estruture
