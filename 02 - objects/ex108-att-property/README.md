@@ -1,8 +1,8 @@
-# Exercise 106 - Creating Objects
+# Exercise 108 - Updating Objects
 
 ## 📚 Objective
 
-Create an object using JavaScript object literal syntax.
+altering a property of object and show it in console using JavaScript object literal syntax.
 
 ## 🧠 Concepts
 
@@ -18,23 +18,24 @@ const user = {
   name: "Alexandre",
 };
 
-console.log(user);
+user.name = "João";
+console.log(user.name);
 ```
 
 ## ▶️ Output
 
 ```text
-{ id: 1, name: 'Alexandre' }
+João
 ```
 
 ## 📖 Explanation
 
-This exercise demonstrates how JavaScript objects store data as key-value pairs.
+This exercise demonstrates how JavaScript objects to update properties.
 
 ## ✅ What I Learned
 
-- How to create objects.
 - How to access properties.
+- How to update properties.
 - Why objects are useful.
 
 ## 📚 References

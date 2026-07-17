@@ -1,8 +1,8 @@
-# Exercise 106 - Creating Objects
+# Exercise 106 - Accessing Objects
 
 ## 📚 Objective
 
-Create an object using JavaScript object literal syntax.
+Access a properties of object in console using JavaScript object literal syntax.
 
 ## 🧠 Concepts
 
@@ -18,13 +18,13 @@ const user = {
   name: "Alexandre",
 };
 
-console.log(user);
+console.log(user.name);
 ```
 
 ## ▶️ Output
 
 ```text
-{ id: 1, name: 'Alexandre' }
+Alexandre
 ```
 
 ## 📖 Explanation
@@ -33,7 +33,6 @@ This exercise demonstrates how JavaScript objects store data as key-value pairs.
 
 ## ✅ What I Learned
 
-- How to create objects.
 - How to access properties.
 - Why objects are useful.
 

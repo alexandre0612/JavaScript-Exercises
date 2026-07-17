@@ -8,4 +8,4 @@ const user = {
 console.log(user);
 console.log(user.id);
 console.log(user.name);
-console.log(user.curse);
+console.log(user.course);

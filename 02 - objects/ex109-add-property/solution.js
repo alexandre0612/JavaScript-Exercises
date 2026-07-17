@@ -14,4 +14,5 @@ let userData = {
   phoneNumber2: "(32) 5555-5555",
 };
 
+user = { ...user, ...userData };
 console.log(user);
