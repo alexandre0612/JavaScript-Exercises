@@ -34,8 +34,8 @@ This exercise demonstrates how JavaScript objects to update properties.
 
 ## ✅ What I Learned
 
-- How to access properties.
-- How to update properties.
+- How to access properties to an object.
+- How to update properties to an object.
 - Why objects are useful.
 
 ## 📚 References
